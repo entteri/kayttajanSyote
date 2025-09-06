@@ -1,0 +1,2 @@
+# kayttajanSyote
+HAMKin harjoituksia
